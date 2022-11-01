@@ -26,7 +26,7 @@ Console.WriteLine($"Количестов чисел больше 0 -> {result} "
 
 //b1 = 2, k1 = 5, b2 = 4, k2 = 9 -> (-0,5; -0,5)
 
-
+/*
 void FindNum(double b1, double k1, double b2, double k2)
 {   
     double x = (b1 - b2) / (k1 - k2);
@@ -48,3 +48,5 @@ Console.WriteLine("Input k2:");
 double k2 = Convert.ToDouble(Console.ReadLine());
 
 FindNum(b1, k1, b2, k2);
+
+*/
